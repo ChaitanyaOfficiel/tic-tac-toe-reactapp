@@ -9,7 +9,6 @@ npm start
 
 
 The Game deployed in Netlify using Github 
-[Play the Game](https://hardcore-lichterman-0a9446.netlify.app/)
 
 Start Game 
 ![Starting Game](https://github.com/ChaitanyaOfficiel/windows-v-s-mac-tic-tac-toe-game/blob/main/C4.PNG)
